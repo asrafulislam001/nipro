@@ -1,0 +1,163 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*common css start*/
+.c-padding{
+     padding-bottom: 50px;
+}
+
+/*header start*/
+.logo {
+    font-size: 20px;
+}
+.c-nav{
+    text-align: right;
+ }
+ .menu ul li a{
+    padding-right: 0px !important;
+ }
+/*service start*/
+.s-single{
+   margin-top: 40px;
+}
+.service-text{
+padding-bottom: 30px;
+}
+
+/*features start*/
+.f-content{
+   margin: 0;
+   margin-bottom: 50px;
+   
+}
+.f-contentTwo{
+   margin: 0;
+   margin-bottom: 50px;
+   
+}
+/*price start*/
+.card{
+   margin-bottom: 32px;
+}
+.price-template {
+    text-align: center;
+}
+.pt-btn {
+     text-align: center; 
+}
+/*album star*/
+.member{
+   margin-bottom: 24px;
+}
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*common css start*/
+.c-padding{
+     padding-bottom: 60px;
+}
+
+/*header start*/
+.c-nav{
+    text-align: right;
+ }
+ .menu ul li a{
+    padding-right: 0px !important;
+ }
+
+/*service start*/
+.s-single{
+   margin-top: 40px;
+}
+.service-text{
+padding-bottom: 30px;
+}
+
+/*features start*/
+.f-content{
+   margin: 0;
+   margin-bottom: 50px;
+}
+.f-contentTwo{
+   margin: 0;
+}
+/*price start*/
+.card{
+   margin-bottom: 32px;
+}
+.pt-btn button{
+   padding: 15px 30px;
+}
+
+/*album star*/
+.member{
+   margin-bottom: 24px;
+}
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*common css start*/
+.c-padding{
+     padding-bottom: 80px;
+}
+
+ /*header start*/
+ .c-nav{
+    text-align: right;
+ }
+ .menu ul li a{
+    padding-right: 0 !important;
+ }
+
+/*service start*/
+.s-single{
+   margin-top: 40px;
+}
+.service-text{
+padding-bottom: 50px;
+}
+
+/*features start*/
+.f-content{
+   margin: 0;
+   margin-bottom: 50px;
+}
+.f-contentTwo{
+   margin: 0;
+}
+
+/*price start*/
+.card{
+   margin-bottom: 32px;
+}
+
+/*album star*/
+.member{
+   margin-bottom: 24px;
+}
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+
+ }
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+ }
+
+/*Extra Extra large devices (Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+ }

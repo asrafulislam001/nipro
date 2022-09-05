@@ -1,0 +1,29 @@
+========== font family ==========
+Header:
+lato
+
+paragraph:-
+font-family: 'Roboto', sans-serif;
+
+========== font color: ========== 
+Black: #333333
+Ash: #8e8e8e
+white: #ffffff
+
+=========== bg color: ===========
+blur: #f8f8f8
+
+========= border color: =========
+blur2: #d1d1d1
+Black: #333333
+
+==========common section==========
+padding 			lg		md		sm			col
+c-padding			100px	80px	60px		50px
+
+==========header section==========
+
+=========service section=========
+
+padding				lg		md		sm			col
+service-text		70		50		30			30
